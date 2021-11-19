@@ -60,15 +60,15 @@
     display: inline-block;
     padding: 12px 30px;
     font-weight: 700;
-    background-color: #1d098f;
-    color: rgb(207, 23, 23);
+    color: beige;
+    background-color: rgb(3, 3, 46);
     border-radius: 40px;
     text-decoration: none;
   }
   
   .notfound a:hover {
-    color: beige;
-    background-color: rgb(1, 1, 12);
+    color: rgb(130, 161, 18);
+    background-color: rgb(33, 33, 185);
   }
   
   
